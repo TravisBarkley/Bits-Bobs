@@ -1,5 +1,5 @@
 ## Start Game
-- run: `python minesweeper.py`
+- run: `python wordle.py`
 
 ### Packages needed 
 
